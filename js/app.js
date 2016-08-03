@@ -6,7 +6,7 @@ app.config(function($stateProvider, $urlRouterProvider) {
 
 	$stateProvider
 	.state('home', {
-		templateUrl : 'home.html',
+		templateUrl : 'welcome.html',
 		url         : '/home'
 	})
 	.state('resume', {

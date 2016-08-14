@@ -21,16 +21,17 @@ app.config(function($stateProvider, $urlRouterProvider) {
 });
 
 app.controller('mainController', function($scope) {
+	
+});
 
+app.controller('welcomeController', function($scope) {
 
 });
 
 app.controller('resumeController', function($scope) {
 
-
 });
 
 app.controller('contactController', function($scope) {
-
 
 });
